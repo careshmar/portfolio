@@ -1,7 +1,12 @@
 #bannerimage {
-  width: 100%;
-  background-image: url(https://www.pexels.com/photo/multicolor-photo-7130469/);
-  height: 405px;
-  background-color: purple;
+  border:5px solid #C18FEE;
+  border-radius: 20px;
+  margin-center: 20px;
+  padding: 3px;
+  background-color: #FFE781;
+  font-family: timesnewroman;
+  float:center;
+}
+
   background-position: center;
 }
