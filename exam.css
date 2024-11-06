@@ -8,6 +8,23 @@
   float:center;
 }
 
+.box {
+  border:3px solid #C18FEE;
+  border-radius: 20px;
+  margin-center: 20px;
+  padding: 3px;
+  background-color: #FFE781;
+  font-family: timesnewroman;
+  float:center;
+
+
+
+}
+
+
+
+
+
  #text {
 font-size:150%;
 
