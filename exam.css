@@ -16,10 +16,57 @@
   background-color: #ffd1fd;
   font-family: timesnewroman;
   float:center;
-
-
-
 }
+
+
+/* Vertical Sidebar Navigation Bar */
+.sidebar {
+  width: 150px;               /* Set the width of the sidebar */
+  background-color: #9e9df2;     /* Dark background for the sidebar */
+  position: fixed;            /* Keep the sidebar fixed to the left */
+  height: 50%;               /* Take up the entire height of the page */
+  padding-top: 20px;          /* Padding at the top of the sidebar */
+}
+
+.sidebar ul {
+  list-style-type: none;      /* Remove the bullet points */
+  padding: 0;
+  margin: 0;
+}
+
+.sidebar ul li {
+  margin: 15px 0;             /* Add space between each list item */
+}
+
+.sidebar ul li a {
+  color: white;               /* White text color */
+  text-decoration: none;      /* Remove underline from links */
+  font-size: 18px;            /* Set font size */
+  padding: 10px 20px;         /* Add padding inside the links */
+  display: block;             /* Make links block-level for better padding */
+  transition: background-color 0.3s; /* Smooth transition for background color on hover */
+}
+
+/* Hover effect for links */
+.sidebar ul li a:hover {
+  background-color: #edc4ff;  /* Lighter gray background on hover */
+  border-radius: 5px;         /* Rounded corners on hover */
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
