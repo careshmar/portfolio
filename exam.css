@@ -25,7 +25,7 @@
   background-color: #9e9df2;     /* Dark background for the sidebar */
   position: fixed;            /* Keep the sidebar fixed to the left */
   height: 80%;               /* Take up the entire height of the page */
-  padding-top: 20px;          /* Padding at the top of the sidebar */
+  padding-top: 60px;          /* Padding at the top of the sidebar */
 }
 
 .sidebar ul {
