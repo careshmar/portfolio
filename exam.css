@@ -31,8 +31,8 @@
     position: fixed;
     top: 0;
     left: 0;
-    height: 60%;
-    width: 100px;
+    height: 50%;
+    width: 80px;
     background-color: #be8cf5;
     padding-top: 20px;
     z-index: 1000;
@@ -67,7 +67,7 @@
 .section {
     margin-left: 200px; /* Space for the fixed navbar */
     padding: 20px;
-    min-height: 80vh;
+    min-height: 100vh;
 }
 
 
