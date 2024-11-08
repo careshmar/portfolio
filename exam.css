@@ -65,9 +65,9 @@
 
 /* Section styling */
 .section {
-    margin-left: 150px; /* Space for the fixed navbar */
+    margin-left: 200px; /* Space for the fixed navbar */
     padding: 20px;
-    min-height: 100vh;
+    min-height: 80vh;
 }
 
 
