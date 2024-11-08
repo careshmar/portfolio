@@ -65,7 +65,7 @@
 
 /* Section styling */
 .section {
-    margin-left: 220px; /* Space for the fixed navbar */
+    margin-left: 100px; /* Space for the fixed navbar */
     padding: 20px;
     min-height: 100vh;
 }
